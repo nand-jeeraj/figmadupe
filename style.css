@@ -154,7 +154,7 @@ a
     position: absolute;
    
  }
-@media (min-width:350px) and (max-width:500px)  {
+@media (min-width:400px) and (max-width:500px)  {
     .login
 {
    width: 375px;
