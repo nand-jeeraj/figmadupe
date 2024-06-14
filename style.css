@@ -155,6 +155,42 @@ a
    
  }
 @media screen and (max-width:600px) {
+    .login
+{
+   width: 375px;
+   height: 615px;   
+}
+.login > h1{
     
+    font-size: 28px;
+
+}
+.google-button{
+    width: 340px;
+    height: 46px;
+}
+
+.login-or{
+    font-size: 13px;
+    height: 40px;
+    line-height: 60px;
+    
+}
+
+.input{
+    width: 340px;
+    height: 46px;
+}
+.submit-btn{
+    width: 340px;
+    height: 46px;
+    font-size: 15px;
+}
+.terms-f{
+    margin-left: 35px;
+}
+.consent-f{
+    margin-left: 18px;
+}
     
 }
